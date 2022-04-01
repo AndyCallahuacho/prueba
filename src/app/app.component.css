@@ -1,0 +1,11 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+mat-toolbar-row {
+    font-size: 25px;
+}
+  
+.example-button-row .mat-button-base {
+    margin: 8px 15px 8px 0;
+    font-size: 20px;
+}
